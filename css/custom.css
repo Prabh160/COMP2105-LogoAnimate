@@ -1,0 +1,124 @@
+body
+{
+  padding: 70px;
+}
+
+.logoA
+{
+  color: #bb0000;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: 'Satisfy', cursive;
+}
+
+.logoA:hover
+{
+  color: #dd0000;
+}
+
+.logoBanner
+{
+  height: 220px;
+  border-top: 1px solid #bb0000;
+  border-bottom: 1px solid #bb0000;
+}
+
+.headAG
+{
+  color: #bb0000;
+  font-size: 5em;
+  font-weight: bold;
+  font-family: 'Satisfy', cursive;
+  text-shadow: 1px 1px 2px black;
+}
+
+.headAGP
+{
+  color: #bb0000;
+  font-size: 5em;
+  font-weight: bold;
+  font-family: 'Satisfy', cursive;
+  text-shadow: 1px 1px 2px black;
+}
+
+#imageGallery
+{
+  margin-top: 20px;
+}
+
+
+img
+{
+  display: none;
+}
+
+li
+{
+  font-size: 1.5em;
+  letter-spacing: 1px;
+}
+
+#listTable
+{
+  margin-top: 20px;
+  padding: 20px;
+  border-top: 1px solid #bb0000;
+  border-bottom: 1px solid #bb0000;
+}
+
+.jumbotron
+{
+  padding: 10px;
+  border-radius: 5px;
+}
+
+ol li:nth-child(4)
+{
+  text-decoration: line-through;
+}
+
+.infoTable
+{
+  width: 100%;
+
+}
+
+.infoTable th
+{
+    padding: 5px;
+    color: #fff;
+    background-color: black;
+}
+
+.infoTable td
+{
+    padding: 5px;
+}
+
+.column
+{
+  border-right: 1px solid #bb0000;
+}
+
+span[aria-hidden="true"]
+{
+  display: none;
+}
+
+span[aria-hidden="false"]
+{
+  display: block;
+}
+
+span
+{
+    margin-top: 10px;
+}
+
+footer
+{
+  color: #bb0000;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px;
+}

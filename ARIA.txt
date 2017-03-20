@@ -1,0 +1,28 @@
+Roles:
+	button
+	banner
+	heading
+	navigation
+	link
+	tooltip
+	listbox
+	option
+
+ARIA States:
+	aria-checked
+	aria-pressed
+	aria-disabled
+	aria-hidden
+
+ARIA Properties:
+	aria-labelledby
+	aria-describedby
+	aria-required
+	aria-readonly
+	aria-multiline
+	aria-autocomplete
+
+References:
+	https://www.w3.org/TR/wai-aria/states_and_properties
+	https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+	
